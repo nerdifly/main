@@ -1,1 +1,0 @@
-# nerdify-scripts
